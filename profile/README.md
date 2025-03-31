@@ -76,8 +76,8 @@ We welcome contributions! Please:
 
 # 📬 Contact Us
 
-**Email:** [ai-lab@sunway.edu.my](mailto:ailab@sunway.edu.np)  
-**Website:** [https://sunway.edu.my/ai-lab](https://sunway.edu.np)  
+**Email:** [ailab@sunway.edu.np](mailto:ailab@sunway.edu.np)  
+**Website:** [https://sunway.edu.np](https://sunway.edu.np)  
 
 **Address:**  
 Sunway AI Lab
