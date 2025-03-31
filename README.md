@@ -1,6 +1,12 @@
 # Sunway AI Lab
 
-![Sunway AI Lab Logo](https://placeholder.com/150x50) <!-- Replace with actual logo -->
+<div style="width: 200px; height: 150px; overflow: hidden; margin: 0 auto;">
+    <img 
+        src="SUNWAY_AI_LAB.png" 
+        alt="Sunway AI Lab Logo" 
+        style="width: 30%; height: 30%; object-fit: cover; object-position: center 70%;"
+    />
+</div>
 
 ## Overview
 
