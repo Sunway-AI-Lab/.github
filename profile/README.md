@@ -59,9 +59,7 @@ We welcome contributions! Please:
   - **Tests**: pytest framework
 - Keep commits atomic and well-described
 
-# 🏛️ Governance
-
-# 🏛️ Governance
+# 🏛️ Team
 
 **Leadership Team:**
 - Director: [Khushal Regmi](https://github.com/khushalregmi) (@khushalregmi)
