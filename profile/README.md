@@ -72,7 +72,6 @@ We welcome contributions! Please:
 - [Sanket Shrestha](https://github.com/stha-sanket) (@stha-sanket) (Quality Assurance)
 - [Ankit Mahato](https://github.com/mahatoankit) (@mahatoankit) (Computer Vision)
 - [Prashant Aharya](https://github.com/Prashanta1524) (@Prashanta1524) (Computer Vision)
-- [Sangeet KC](https://github.com/kcsangit) (@kcsangit) (Backend Developer)
 
 # 📬 Contact Us
 
