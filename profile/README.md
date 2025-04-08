@@ -46,7 +46,7 @@ Welcome to the official GitHub organization of **Sunway AI Lab**! This space hos
 | ATutorBot                                | AI-powered tutoring system            | Python, PyTorch, HuggingFace, FastAPI | Active  |
 | Medical Image Interpreter                | Medical image analysis toolkit        | Python, TensorFlow, MONAI, DICOM    | Active  |
 | Robotic Process Automation with Agentic AI for Finance | Financial document processing | Python, LangChain, OpenAI API, PDF parsers | Active  |
-| Patient Management              | Patient Management Descision Making        | Python, SHAP, LIME, scikit-learn    | Active    |
+| Patient Management              | Patient Management Descision Making        | Python, SHAP, LIME, scikit-learn    | Under planning    |
 
 # 📜 Contribution Guidelines
 
