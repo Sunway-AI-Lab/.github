@@ -62,8 +62,6 @@ We welcome contributions! Please:
 # 🏛️ Team
 
 **Leadership Team:**
-- Director: [Khushal Regmi](https://github.com/khushalregmi) (@khushalregmi)
-- Academic Co-ordinator: [Rupak Koirala](https://github.com/rupakkoirala) (@rupakkoirala)
 - Research Lead: [Udit Kumar Mahato](https://github.com/uditmahato) (@uditmahato)
 
 **Technical Steering Committee:**
